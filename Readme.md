@@ -59,7 +59,7 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset b
 - Loaded the dataset into Power BI and SQL for preliminary analysis.
 - Examined the schema, column data types, and missing values.
 2️. Handling Duplicates and Data Quality Issues
-- Identified duplicate transactions using SQL (SELECT DISTINCT currency FROM transactions).
+- Identified duplicate transactions using Power Query transformations.
 
   <img width="870" alt="Duplicate Values" src="https://github.com/user-attachments/assets/e370f501-14c2-46c4-9b6e-7c3a14712eeb" />
 
