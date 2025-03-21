@@ -1,6 +1,6 @@
 # Sales Insight Using Power BI Dashboard
 
-![image](https://github.com/user-attachments/assets/7c310dc2-8f95-48e1-9ee3-5052dd73548d)
+![image](https://github.com/user-attachments/assets/a0c14888-6723-42bc-ac2e-5cb6b4d9b5c5)
 
 ## Overview
 This project focuses on generating sales insights using data analysis techniques to help businesses make data-driven decisions. The project is designed for individuals aspiring to become data analysts or data scientists, offering hands-on experience in executing a real-world data analysis project similar to those in corporate environments.
