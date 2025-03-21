@@ -24,11 +24,11 @@ By the end of this project, a comprehensive Power BI dashboard will be created, 
 ## Problem Statement
 
 ### Business Context:
-AtliQ Hardware, a computer hardware and peripherals supplier, provides products to various clients, including Excel Stores across India. The company has its headquarters in Delhi and multiple regional offices across the country. Bhavin Patel, the Sales Director, is facing significant challenges in tracking and understanding sales trends in a dynamically evolving market.
+AtliQ Hardware, a computer hardware and peripherals supplier, provides products to various clients, including Excel Stores across India. The company has its headquarters in Delhi and multiple regional offices across the country. The Sales Director, is facing significant challenges in tracking and understanding sales trends in a dynamically evolving market.
 
 Challenges:
 
-1. Lack of Centralized Insights: The sales data is fragmented across multiple Excel files, making it difficult for Bhavin Patel to get a holistic view of sales performance.
+1. Lack of Centralized Insights: The sales data is fragmented across multiple Excel files, making it difficult for the sales director to get a holistic view of sales performance.
 
 2. Subjective Reporting: Regional managers provide verbal updates on sales trends, which often include biases or sugar-coated versions of the actual situation.
 
