@@ -85,7 +85,7 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset b
 ![image](https://github.com/user-attachments/assets/112fc203-bc28-43da-ab3a-830ce9f4070c)
 
 ### Step 3. Creating Cards, Graphs and other Insights Cards
-- In order to fulfill our primary objective we are going to make multiple cards and graphs which can be used for insight
+- In order to fulfill our primary objective we are going to make multiple cards and graphs which can be used for insight.
 - Revenue Card
 
 ![image](https://github.com/user-attachments/assets/de182d2b-6c59-40d3-860f-b1487d0a976e)
