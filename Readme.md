@@ -108,7 +108,7 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset b
 
 - Top 5 Customers and Top 5 Products
 
-![image](https://github.com/user-attachments/assets/3b4f1f6f-1c03-42ee-8089-a94876fabee1)
+![image](https://github.com/user-attachments/assets/671caa71-bb07-43b4-a357-8cf5e3d4a3b7)
 
 - Revenue Graph
 
