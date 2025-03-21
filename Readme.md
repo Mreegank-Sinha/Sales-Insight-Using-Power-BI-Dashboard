@@ -58,6 +58,7 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset b
 1️. Understanding the Dataset
 - Loaded the dataset into Power BI and SQL for preliminary analysis.
 - Examined the schema, column data types, and missing values.
+
 2️. Handling Duplicates and Data Quality Issues
 - Identified duplicate transactions using Power Query transformations.
 
@@ -71,15 +72,4 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset b
 
   <img width="871" alt="Null values" src="https://github.com/user-attachments/assets/817e19cb-abed-4449-addb-39d79b9f9754" />
 
-3️. Statistical Summary & Distribution Analysis
-- Visualized key metrics such as total revenue, sales quantity, and customer distribution.
-- Analyzed data distribution using histograms and bar charts.
-- Used descriptive statistics to detect outliers and skewness in sales data.
-4️. Feature Engineering
-- Created derived columns such as normalized sales amount by applying currency conversion rates.
-- Grouped data by customer segments to identify high-value customers.
-5️. Key Insights
-- Most revenue is generated from a few high-value customers.
-- Data inconsistencies in currency formats required cleaning to ensure accuracy.
-- Certain transactions had zero sales amounts, which were flagged for further investigation.
 
