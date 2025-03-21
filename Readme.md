@@ -77,4 +77,10 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset b
 
 <img width="801" alt="Star Schema" src="https://github.com/user-attachments/assets/0d96c905-88a7-45f2-b116-4233e8607b73" />
 
+# Step 2. Creating New Table for Analysis
+- Creating a table named BaseMeasures for further analysis.
+- Creating a new measure for total revenue of tansactions.
+- Creating another measure for total sales quantity.
+
+![image](https://github.com/user-attachments/assets/112fc203-bc28-43da-ab3a-830ce9f4070c)
 
