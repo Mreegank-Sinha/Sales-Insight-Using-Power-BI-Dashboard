@@ -52,3 +52,34 @@ With this dashboard, we can easily track key performance metrics, gain real-time
 ## Dataset
 The dataset is a sales transactions database from AtliQ Hardware, containing various relational tables. It includes information about customers, transactions, products, markets, and dates. The transactions table is the primary source of sales data, storing details such as product codes, customer codes, market codes, order dates, sales amounts, and currencies. Other tables, like the customers table, list client details, while the markets table specifies the business regions. The dataset also includes inconsistencies such as negative sales values and different currencies (INR & USD), requiring data cleaning. It contains 150,000+ transactions and supports SQL-based analysis for business insights.
 
+## EDA
+Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset before performing transformations and modeling. In this project, we conducted EDA to identify patterns, anomalies, and data quality issues. Below are the key steps we followed:
+
+1️. Understanding the Dataset
+- Loaded the dataset into Power BI and SQL for preliminary analysis.
+- Examined the schema, column data types, and missing values.
+2️. Handling Duplicates and Data Quality Issues
+- Identified duplicate transactions using SQL (SELECT DISTINCT currency FROM transactions).
+
+  <img width="870" alt="Duplicate Values" src="https://github.com/user-attachments/assets/e370f501-14c2-46c4-9b6e-7c3a14712eeb" />
+
+- Detected and resolved currency inconsistencies (e.g., "INR" vs. "INR/r") using Power Query transformations.
+
+  <img width="870" alt="Duplicate Values" src="https://github.com/user-attachments/assets/0d4edf23-f9ac-4477-a3b3-95c08a0b5938" />
+
+- Removed or corrected records with erroneous sales amounts (e.g., negative or zero values).
+
+  <img width="871" alt="Null values" src="https://github.com/user-attachments/assets/817e19cb-abed-4449-addb-39d79b9f9754" />
+
+3️. Statistical Summary & Distribution Analysis
+- Visualized key metrics such as total revenue, sales quantity, and customer distribution.
+- Analyzed data distribution using histograms and bar charts.
+- Used descriptive statistics to detect outliers and skewness in sales data.
+4️. Feature Engineering
+- Created derived columns such as normalized sales amount by applying currency conversion rates.
+- Grouped data by customer segments to identify high-value customers.
+5️. Key Insights
+- Most revenue is generated from a few high-value customers.
+- Data inconsistencies in currency formats required cleaning to ensure accuracy.
+- Certain transactions had zero sales amounts, which were flagged for further investigation.
+
