@@ -70,6 +70,14 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset b
 
 - Removed or corrected records with erroneous sales amounts (e.g., negative or zero values).
 
+## Procedure
+# Step 1. Creating Relationships & Data Model
+- Go to the Model View in Power BI.
+- Identify relationships between tables (e.g., transactions, customers, and products).
+
+<img width="801" alt="Star Schema" src="https://github.com/user-attachments/assets/0d96c905-88a7-45f2-b116-4233e8607b73" />
+
+
   <img width="871" alt="Null values" src="https://github.com/user-attachments/assets/817e19cb-abed-4449-addb-39d79b9f9754" />
 
 
