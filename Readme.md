@@ -1,6 +1,6 @@
 # Sales Insight Using Power BI Dashboard
 
-<img width="780" alt="Dashboard" src="https://github.com/user-attachments/assets/00c1fc88-f62e-44d7-bd72-39448c44bcae" />
+![image](https://github.com/user-attachments/assets/7c310dc2-8f95-48e1-9ee3-5052dd73548d)
 
 ## Overview
 This project focuses on generating sales insights using data analysis techniques to help businesses make data-driven decisions. The project is designed for individuals aspiring to become data analysts or data scientists, offering hands-on experience in executing a real-world data analysis project similar to those in corporate environments.
@@ -71,16 +71,49 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset b
 - Removed or corrected records with erroneous sales amounts (e.g., negative or zero values).
 
 ## Procedure
-# Step 1. Creating Relationships & Data Model
+### Step 1. Creating Relationships & Data Model
 - Selecting the Model View in Power BI.
 - Identifying relationships between tables (e.g., transactions, customers, and products).
 
 <img width="801" alt="Star Schema" src="https://github.com/user-attachments/assets/0d96c905-88a7-45f2-b116-4233e8607b73" />
 
-# Step 2. Creating New Table for Analysis
+### Step 2. Creating New Table for Analysis
 - Creating a table named BaseMeasures for further analysis.
 - Creating a new measure for total revenue of tansactions.
 - Creating another measure for total sales quantity.
 
 ![image](https://github.com/user-attachments/assets/112fc203-bc28-43da-ab3a-830ce9f4070c)
 
+### Step 3. Creating Cards, Graphs and other Insights Cards
+- In order to fulfill our primary objective we are going to make multiple cards and graphs which can be used for insight
+- Revenue Card
+
+![image](https://github.com/user-attachments/assets/de182d2b-6c59-40d3-860f-b1487d0a976e)
+
+- Sales Quantity Card
+
+![image](https://github.com/user-attachments/assets/3e13d2de-05f8-4f63-8105-048e4e0225cf)
+
+- Revenue by Markets/Zones
+
+![image](https://github.com/user-attachments/assets/bc176604-75f1-43c6-b98d-9b1cee35d92b)
+
+- Sales Quantity by Markets/Zones
+
+![image](https://github.com/user-attachments/assets/6f2a1b0f-35f6-4423-aabe-13044e5ba4e7)
+
+- Year and Month Sliders/Buttons for Insights by Date
+
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/54e30755-e2c3-414c-9392-f63d0ad518a9" />
+
+- Top 5 Customers and Top 5 Products
+
+![image](https://github.com/user-attachments/assets/3b4f1f6f-1c03-42ee-8089-a94876fabee1)
+
+- Revenue Graph
+
+![image](https://github.com/user-attachments/assets/73b83cd4-3cb0-4052-b44b-8099b44643b8)
+
+# Conclusion
+
+Utilising PowerBi and SQL, we were able to create a relevant Dashboard which can resolve our problem of lack of valuable Insights.
