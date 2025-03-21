@@ -49,3 +49,6 @@ To address these challenges, the project aims to create a Power BI dashboard tha
 
 With this dashboard, we can easily track key performance metrics, gain real-time insights, and make informed business decisions without relying on verbal reports from regional managers. This project not only enhances sales tracking but also fosters a data-driven culture within the company.
 
+## Dataset
+The dataset is a sales transactions database from AtliQ Hardware, containing various relational tables. It includes information about customers, transactions, products, markets, and dates. The transactions table is the primary source of sales data, storing details such as product codes, customer codes, market codes, order dates, sales amounts, and currencies. Other tables, like the customers table, list client details, while the markets table specifies the business regions. The dataset also includes inconsistencies such as negative sales values and different currencies (INR & USD), requiring data cleaning. It contains 150,000+ transactions and supports SQL-based analysis for business insights.
+
